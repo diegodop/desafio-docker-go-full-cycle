@@ -1,7 +1,7 @@
 # Full Cycle - Docker - Desafio Go
 
-Link para fazer o push da imagem no docker:
+Link para fazer o pull da imagem a partir do dockerhub:
 
 ~~~docker
-docker push diegodop/codeeducation:latest
+docker pull diegodop/codeeducation
 ~~~
